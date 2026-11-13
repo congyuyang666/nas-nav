@@ -912,3 +912,6 @@ nas-nav/
 **当前版本：V1.0.0** · [GitHub 仓库](https://github.com/xinya585/nas-nav) · [在线预览](https://www.133132131.xyz)
 
 </div>
+
+
+<!-- redeploy trigger: 2026-11-13 16:25:30 -->
