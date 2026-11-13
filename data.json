@@ -11,7 +11,20 @@
     "bgOpacity": 100,
     "showVisitorIp": true,
     "showFlag": true,
-    "showClock": true
+    "showClock": true,
+    "icp": "",
+    "logoUrl": "",
+    "theme": "green",
+    "cardStyle": "glass",
+    "titleFont": "",
+    "titleSize": "",
+    "titleColor": "#16251f",
+    "subtitleFont": "",
+    "subtitleSize": "",
+    "subtitleColor": "#4a6358",
+    "footerFont": "",
+    "footerSize": "",
+    "footerColor": "#8aa397"
   },
   "categories": [
     {
